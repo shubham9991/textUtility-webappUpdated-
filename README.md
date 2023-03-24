@@ -32,10 +32,8 @@ Your app is ready to be deployed!
 ### Light Mode
 <img src="./images/Screenshot (35).png"/>
 <img src="./images/Screenshot (36).png"/>
-<img src="./images/Screenshot (37).png"/>
 
 
 ### Dark Mode
 <img src="./images/Screenshot (38).png"/>
 <img src="./images/Screenshot (39).png"/>
-<img src="./images/Screenshot (40).png"/>
